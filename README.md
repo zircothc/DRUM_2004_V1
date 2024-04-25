@@ -20,8 +20,15 @@ Synth engine:
 Sequencer:
 16 step/pattern editor and random generators (pattern, sound parameters and notes)
 
+
 IDE:
 Arduino 1.8.19
 
 Boards:
 Expressif Systems 2.0.14
+
+SCHEMATICS: uploaded.
+Notes:
+Join solder pads near SCK pin in PCM5102A module
+
+
