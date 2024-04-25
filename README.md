@@ -10,6 +10,7 @@ Hardware:
 - Rotary encoder
 - OLED display I2c
 - 32 LED WS2812B
+  
 Synth engine:
 - Wavetable synthesizer based on DZL Arduino library "The Synth" (github.com/dzlonline/the_synth)
 - 16 sound polyphony
