@@ -275,6 +275,7 @@ char keys[ROWS][COLS] = {
   {'f','g','h'},
   {'v','b','n'}  
 };
+// need to confirm if this is the right order in the PCB version
 byte rowPins[ROWS] = {14, 13, 10, 8,6,4,2,7}; //connect to the row pinouts of the keypad
 byte colPins[COLS] = {40,38,36}; //connect to the column pinouts of the keypad
 Keypad kpd = Keypad( makeKeymap(keys), rowPins, colPins, ROWS, COLS );
