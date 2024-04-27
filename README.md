@@ -32,6 +32,7 @@ Libraries:
 - Sequencer Timer - uClock: https://github.com/midilab/uClock
 - RGB Leds - Adafruit Neopixel: https://github.com/adafruit/Adafruit_NeoPixel
 - OLED - u8g2: https://github.com/olikraus/u8g2
+![IMG_20240406_150440](https://github.com/zircothc/DRUM_2004_V1/assets/17828930/c8327dc2-a3f7-4d81-8d82-ebfe2a7c45c3)
 
 SCHEMATICS: uploaded.
 
