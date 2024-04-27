@@ -5,7 +5,7 @@ This is my DRUM SYNTH LOFI MACHINE.
 
 ![IMG_20240406_150440](https://github.com/zircothc/DRUM_2004_V1/assets/17828930/c8327dc2-a3f7-4d81-8d82-ebfe2a7c45c3)
 
-Hardware:
+# Hardware:
 - Lolin S2 Mini (ESP32 S2)
 - PCM5102A I2s dac
 - 24 push buttons (8x3)
@@ -13,13 +13,13 @@ Hardware:
 - OLED display I2c
 - 32 LED WS2812B
   
-Synth engine:
+# Synth engine:
 - Wavetable synthesizer based on DZL Arduino library "The Synth" (https://github.com/dzlonline/the_synth)
 - 16 sound polyphony
 - Sound parameters: Table, Length, Envelope, Pitch, Modulation, + Volume, Pan and Filter.
 * Filter (LowPassFilter) comes from Mozzi library (https://github.com/sensorium/Mozzi)
 
-Sequencer:
+# Sequencer:
 16 step/pattern editor and random generators (pattern, sound parameters and notes)
 
 IDE:
