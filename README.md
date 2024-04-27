@@ -45,8 +45,12 @@ Notes:
 Join solder pads near SCK pin in PCM5102A module
 
 Video demo of the prototype:
+
 https://www.youtube.com/watch?v=rXl1gpWJp-g
-[![IMG_20240406_150231](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=rXl1gpWJp-g)
+
+[![IMG_20240406_150231](https://img.youtube.com/vi/rXl1gpWJp-g/0.jpg)](https://www.youtube.com/watch?v=rXl1gpWJp-g)
+
+
 
 ![IMG_20240406_150231](https://github.com/zircothc/DRUM_2004_V1/assets/17828930/feb9b928-f76a-4b51-93ea-a7afbd6a5c28)
 
