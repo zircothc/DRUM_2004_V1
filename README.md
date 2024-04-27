@@ -9,7 +9,7 @@ This is my DRUM SYNTH LOFI MACHINE.
 - Wavetable synthesizer based on DZL Arduino library "The Synth" (https://github.com/dzlonline/the_synth)
 - 16 sound polyphony
 - Sound parameters: Table, Length, Envelope, Pitch, Modulation, + Volume, Pan and Filter.
-* Filter (LowPassFilter) comes from Mozzi library (https://github.com/sensorium/Mozzi)
+- Filter (LowPassFilter) comes from Mozzi library (https://github.com/sensorium/Mozzi)
 
 SEQUENCER:
 - 16 step/pattern editor and random generators (pattern, sound parameters and notes)
