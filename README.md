@@ -5,14 +5,6 @@ This is my DRUM SYNTH LOFI MACHINE.
 
 ![IMG_20240406_150440](https://github.com/zircothc/DRUM_2004_V1/assets/17828930/c8327dc2-a3f7-4d81-8d82-ebfe2a7c45c3)
 
-# Hardware:
-- Lolin S2 Mini (ESP32 S2)
-- PCM5102A I2s dac
-- 24 push buttons (8x3)
-- Rotary encoder
-- OLED display I2c
-- 32 LED WS2812B
-  
 # Synth engine:
 - Wavetable synthesizer based on DZL Arduino library "The Synth" (https://github.com/dzlonline/the_synth)
 - 16 sound polyphony
@@ -21,6 +13,14 @@ This is my DRUM SYNTH LOFI MACHINE.
 
 SEQUENCER:
 - 16 step/pattern editor and random generators (pattern, sound parameters and notes)
+  
+# Hardware:
+- Lolin S2 Mini (ESP32 S2)
+- PCM5102A I2s dac
+- 24 push buttons (8x3)
+- Rotary encoder
+- OLED display I2c
+- 32 LED WS2812B
 
 # Software:
 
@@ -37,13 +37,16 @@ Libraries:
 - RGB Leds - Adafruit Neopixel: https://github.com/adafruit/Adafruit_NeoPixel
 - OLED - u8g2: https://github.com/olikraus/u8g2
 
-SCHEMATICS: uploaded.
+# SCHEMATICS:
+
+Uploaded.
 
 Notes:
 Join solder pads near SCK pin in PCM5102A module
 
 Video demo of the prototype:
 https://www.youtube.com/watch?v=rXl1gpWJp-g
+[![IMG_20240406_150231](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=rXl1gpWJp-g)
 
 ![IMG_20240406_150231](https://github.com/zircothc/DRUM_2004_V1/assets/17828930/feb9b928-f76a-4b51-93ea-a7afbd6a5c28)
 
