@@ -19,8 +19,10 @@ This is my DRUM SYNTH LOFI MACHINE.
 - Sound parameters: Table, Length, Envelope, Pitch, Modulation, + Volume, Pan and Filter.
 * Filter (LowPassFilter) comes from Mozzi library (https://github.com/sensorium/Mozzi)
 
-# Sequencer:
-16 step/pattern editor and random generators (pattern, sound parameters and notes)
+SEQUENCER:
+- 16 step/pattern editor and random generators (pattern, sound parameters and notes)
+
+# Software:
 
 IDE:
 Arduino 1.8.19
