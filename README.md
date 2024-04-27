@@ -37,12 +37,11 @@ Libraries:
 - RGB Leds - Adafruit Neopixel: https://github.com/adafruit/Adafruit_NeoPixel
 - OLED - u8g2: https://github.com/olikraus/u8g2
 
-# MORE:
+# Notes:
 
 Schematics uploaded.
 
-Notes:
-Join solder pads near SCK pin in PCM5102A module
+Join solder pads near SCK pin in PCM5102A module.
 
 Video demo of the prototype:
 
