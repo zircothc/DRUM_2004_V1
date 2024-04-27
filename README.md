@@ -26,6 +26,8 @@ Arduino 1.8.19
 Boards:
 Expressif Systems 2.0.14
 
+Board: Lolin S2 Mini
+
 Libraries:
 - Sequencer Timer - uClock: https://github.com/midilab/uClock
 - RGB Leds - Adafruit Neopixel: https://github.com/adafruit/Adafruit_NeoPixel
