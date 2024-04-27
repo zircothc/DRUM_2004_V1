@@ -12,10 +12,10 @@ Hardware:
 - 32 LED WS2812B
   
 Synth engine:
-- Wavetable synthesizer based on DZL Arduino library "The Synth" (github.com/dzlonline/the_synth)
+- Wavetable synthesizer based on DZL Arduino library "The Synth" (https://github.com/dzlonline/the_synth)
 - 16 sound polyphony
 - Sound parameters: Table, Length, Envelope, Pitch, Modulation, + Volume, Pan and Filter.
-* Filter (LowPassFilter) comes from Mozzi library (github.com/sensorium/Mozzi)
+* Filter (LowPassFilter) comes from Mozzi library (https://github.com/sensorium/Mozzi)
 
 Sequencer:
 16 step/pattern editor and random generators (pattern, sound parameters and notes)
@@ -25,6 +25,11 @@ Arduino 1.8.19
 
 Boards:
 Expressif Systems 2.0.14
+
+Libraries:
+- Sequencer Timer - uClock: https://github.com/midilab/uClock
+- RGB Leds - Adafruit Neopixel: https://github.com/adafruit/Adafruit_NeoPixel
+- OLED - u8g2: https://github.com/olikraus/u8g2
 
 SCHEMATICS: uploaded.
 
