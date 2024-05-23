@@ -71,7 +71,7 @@ PARTS MOUNTED
 ![soldado](https://github.com/zircothc/DRUM_2004_V1/assets/17828930/691a3e87-74a0-4ee9-bb83-77bda648d8eb)
 ![soldado por detras](https://github.com/zircothc/DRUM_2004_V1/assets/17828930/2e9d8d91-a247-4251-9387-837ad2b6a9ef)
 
-SIZE PROTOTYPE VS FINAL BUILD
+SIZE: FINAL BUILD vs PROTOTYPE
 ![SIZE](https://github.com/zircothc/DRUM_2004_V1/assets/17828930/9eb3fe80-272a-4285-b9d5-6d1e910351dc)
 
 TWO MACHINES IN SYNC
