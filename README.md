@@ -40,6 +40,7 @@ Libraries:
 # Notes:
 
 Schematics uploaded.
+STL 3D model uploaded.
 
 Join solder pads near SCK pin in PCM5102A module.
 Update: solder also pads on the back:
