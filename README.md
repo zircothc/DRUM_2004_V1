@@ -56,9 +56,11 @@ Video demo of the prototype:
 
 Prototype:
 ![IMG_20240406_150231](https://github.com/zircothc/DRUM_2004_V1/assets/17828930/feb9b928-f76a-4b51-93ea-a7afbd6a5c28)
-![board](https://github.com/zircothc/DRUM_2004_V1/assets/17828930/e1001f26-0993-4221-90d1-e9a2f710af0f)
+
 
 # PCB, PROJECT & FINAL LOOK:
+
+![board](https://github.com/zircothc/DRUM_2004_V1/assets/17828930/e1001f26-0993-4221-90d1-e9a2f710af0f)
 
 https://oshwlab.com/zircothc/esp32-drum-synth-lofi-machine
 https://easyeda.com/editor#project_id=08f629c08b18444ca16accbb2242c0fb
