@@ -29,10 +29,11 @@ SEQUENCER:
 # Software:
 
 IDE:
-Arduino `1.8.19` (Won't compile with 2.x!)
+Arduino `1.8.19` 
+Arduino `2.3.2`
 
 Boards:
-Expressif Systems `2.0.14` (Tested fine up to `2.0.17`)
+Expressif Systems `2.0.16` (Tested fine up to `2.0.17`)
 
 Board: Lolin S2 Mini
 
