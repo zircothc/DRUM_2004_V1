@@ -94,3 +94,6 @@ TWO MACHINES IN SYNC
 
 ALTERNATIVE CASE/ENCLOSURE
 
+![IMG_20250602_214025](https://github.com/user-attachments/assets/21715a8f-d8d2-47fd-ac88-73c617269332)
+![IMG_20250602_214653](https://github.com/user-attachments/assets/dbacb54e-8215-4e22-88d9-833ccd012ed1)
+
